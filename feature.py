@@ -4,4 +4,5 @@ im.method()
 
 print("Cool new feature!")
 
-print()
+
+print("Changes!!!")
