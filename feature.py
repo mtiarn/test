@@ -1,3 +1,7 @@
-print("New feature")
+import important_stuff as im
 
-print("Update")
+im.method()
+
+print("Cool new feature")
+
+print()
